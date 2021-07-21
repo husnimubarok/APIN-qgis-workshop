@@ -2,6 +2,10 @@
 #### Date: 21-07-2021
 
 Short workhop on how to use QGIS to visualize data  
+
+![output-result](./output/ProgramMapARC-Dummy.png)
+
+
 ## Basic QGIS Orientation
 Orientation on QGIS user interface such as:
 1. Menu bar
